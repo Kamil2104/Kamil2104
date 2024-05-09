@@ -5,4 +5,6 @@
 - 👀 I’m interested in web development.
 - 👨🏻‍💻 I’m currently learning React.js and Express.js (I am self-taught in these programming languages).
 - 📖 I started learning React on November 27, 2023 
-- 📫 How to reach me: "kamilniewiadomski18@gmail.com".
+- 📫 How to reach me:
+  - LinkedIn: https://www.linkedin.com/in/kamil-niewiadomski-3464292b8/
+  - Gmail: "kamilniewiadomski18@gmail.com".
