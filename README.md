@@ -4,7 +4,7 @@
 - 🏫 I'm in high school, majoring in programming engineering.
 - 👀 I’m interested in web development.
 - 📖 I started learning React on November 27, 2023 
-- 📋 Starting from June 17, 2024, I began the journey to earn the professional certificate "Meta Front-End Developer" from Meta on the Coursera platform, which I am pursuing to this day.
+- 📋 I'm currently working at Swarmbase.ai as a Junior Front-End Developer, where I'm developing a website for the company.
 - 📫 How to reach me:
   - LinkedIn: https://www.linkedin.com/in/kamil-niewiadomski-3464292b8/
   - Gmail: "kamilniewiadomski18@gmail.com".
