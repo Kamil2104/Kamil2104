@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋🏻 Hi, I’m Kamil. I was born on December 18, 2005.<br>🏫 I’m in high-school majoring in programming engineering.<br>👨🏻‍💻 I’m Front-End Developer specializing in React.<br>💻 I’m currently working in Swarmbase.ai and DevAgency. At DevAgency I’m currently working on web and desktop application.
+👋🏻 Hi, I’m Kamil. I was born on December 18, 2005.<br>🏫 I’m in high-school majoring in programming engineering.<br>👨🏻‍💻 I’m Front-End Developer specializing in React.<br>💻 I’m currently working in DevAgency, where I’m currently working on web and desktop application and company website.
 
 
 # 💻 Tech Stack:
