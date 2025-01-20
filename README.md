@@ -1,10 +1,10 @@
 💫 About Me
 
-👋 Hi, I'm Kamil!
-🎂 I was born on December 18, 2005.
-🏫 I'm currently in high school, majoring in Programming Engineering.
-👨‍💻 I specialize in Front-End Development, with a focus on React.
-💼 I'm working at DevAgency, where I'm responsible for developing the company's website as well as web and desktop application.
+👋 Hi, I'm Kamil! <br>
+🎂 I was born on December 18, 2005. <br>
+🏫 I'm currently in high school, majoring in Programming Engineering. <br>
+👨‍💻 I specialize in Front-End Development, with a focus on React. <br>
+💼 I'm working at DevAgency, where I'm responsible for developing the company's website as well as web and desktop application. <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamil Niewiadomski) 
