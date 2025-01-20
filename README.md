@@ -1,4 +1,4 @@
-💫 About Me
+# 💫 About Me
 
 👋 Hi, I'm Kamil! <br>
 🎂 I was born on December 18, 2005. <br>
@@ -6,7 +6,7 @@
 👨‍💻 I specialize in Front-End Development, with a focus on React. <br>
 💼 I'm working at DevAgency, where I'm responsible for developing the company's website as well as web and desktop application. <br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamil Niewiadomski) 
 
 # 💻 Tech Stack:
