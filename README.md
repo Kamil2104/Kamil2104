@@ -1,10 +1,20 @@
-# 💫 About Me:
-👋🏻 Hi, I’m Kamil. I was born on December 18, 2005.<br>🏫 I’m in high-school majoring in programming engineering.<br>👨🏻‍💻 I’m Front-End Developer specializing in React.<br>💻 I’m currently working in Swarmbase.ai and DevAgency. At DevAgency I’m currently working on web and desktop application.
-👋🏻 Hi, I’m Kamil. I was born on December 18, 2005.<br>🏫 I’m in high-school majoring in programming engineering.<br>👨🏻‍💻 I’m Front-End Developer specializing in React.<br>💻 I’m currently working in DevAgency, where I’m currently working on web and desktop application and company website.
+💫 About Me
 
+👋 Hi, I'm Kamil!
+🎂 I was born on December 18, 2005.
+🏫 I'm currently in high school, majoring in Programming Engineering.
+👨‍💻 I specialize in Front-End Development, with a focus on React.
+💼 I'm working at DevAgency, where I'm responsible for developing the company's website as well as web and desktop application.
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kamil Niewiadomski) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kamil2104&theme=dark&hide_border=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kamil2104&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Kamil2104&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Kamil2104&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamil2104&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
