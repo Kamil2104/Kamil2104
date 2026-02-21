@@ -2,9 +2,9 @@
 
 👋 Hi, I'm Kamil! <br>
 🎂 I was born on December 18, 2005. <br>
-🏫 I'm currently in high school, majoring in Programming Engineering. <br>
+🏫 I graduated from high school with a major in Programming Engineering, and I am currently studying Computer Science at the Maritime University of Gdynia, Faculty of Computer Science. <br>
 👨‍💻 I specialize in Front-End Development, with a focus on React. <br>
-💼 I'm working at DevAgency, where I'm responsible for developing the company's website as well as web and desktop application. <br>
+💼 Recently I worked at DevAgency, where I was responsible for developing the company's website as well as web and desktop application. <br>
 📩 You can reach me at kamilniewiadomski18@gmail.com
 
 # 🌐 Socials:
